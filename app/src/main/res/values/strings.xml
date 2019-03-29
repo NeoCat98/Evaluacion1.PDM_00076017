@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Evaluacion1</string>
+    <string name="contador_text">#</string>
+    <string name="producto_text">producto</string>
+    <string name="enviar_text">enviar</string>
+    <string name="contador_de_productos_text">Contador de productos</string>
+    <string name="detalles_del_producto">Detalles del producto</string>
+    <string name="total_del_producto_text">Total del producto:</string>
+    <string name="correo_text">correo:</string>
+    <string name="usuario_text">Usuario:</string>
+    <string name="share_text">share</string>
+</resources>
